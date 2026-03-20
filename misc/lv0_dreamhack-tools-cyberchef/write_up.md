@@ -1,0 +1,1 @@
+1. html의 h1태그의 EU...Ru 값을 드림핵 툴을 이용해 역순으로 ROT13 -> Base64 decoding -> Rail Fence decoding을 통해 flag 획득
