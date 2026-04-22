@@ -61,7 +61,7 @@ for (let _ = 0; _ < 100; _++) {
   }
 }
 
-// 변경된 pumpkin배열의 값을 ASCII 문자열로 반환
+// 변경된 pumpkin배열의 값을 유니코드 문자열로 반환
 const flag = pumpkin.map((x) => String.fromCharCode(x)).join("");
 console.log(flag);
 ```
